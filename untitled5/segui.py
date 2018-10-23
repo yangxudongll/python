@@ -1,7 +1,7 @@
 # ！user/bin/env python
 #---encoding utf-8---
 #  author:xudong   time:2018/9/13
-
+#做一个有界面的网易音乐下载爬虫
 import requests
 from selenium import webdriver
 from selenium.webdriver.support.ui import WebDriverWait
